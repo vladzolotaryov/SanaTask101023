@@ -1,1 +1,2 @@
 RedColor
+1
