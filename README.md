@@ -17,3 +17,5 @@
 This site was built using [Google](https://www.google.com.ua/).
 
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://upload.wikimedia.org/wikipedia/commons/0/08/Sana_Commerce_Logo.png)
+
+knk231_zvyu@student.ztu.edu.ua
